@@ -1,17 +1,21 @@
-Local Version-Control Evidence
+Public GitHub Repository Evidence
 
-        Author: Sukh Sandhu
+Author: Sukh Sandhu
+Repository: https://github.com/sukhsandhu/ai-programming-foundations-project
 
-        Branches:
-        development
+Branches:
+development
 * main
+  remotes/origin/development
+  remotes/origin/main
 
-        Commit history:
-        *   3a09d5f (HEAD -> main) Merge development evidence
+Commit history:
+* 119f54d (HEAD -> main, origin/main) Document repository evidence
+*   3a09d5f Merge development evidence
 |\  
-| * f785c73 (development) Add development branch notes
+| * f785c73 (origin/development, development) Add development branch notes
 |/  
 * 07c67fd Initial capstone project structure
 
-        Submission note:
-        The project folder is organized so it can be pushed to the required public GitHub repository before final Udacity upload.
+Rubric note:
+The public repository includes multiple commits on main and an additional development branch.

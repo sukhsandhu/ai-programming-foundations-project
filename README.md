@@ -30,3 +30,7 @@ Poor cleaning can introduce bias if rows are removed unevenly across wine cultiv
 ## Future Integration Reflections
 
 For a machine learning workflow, this project would need train-test splitting, preprocessing pipelines, metric selection, and validation checks. For neural-network preparation, the numeric predictors would need scaling and careful tensor conversion, while correlated variables would need monitoring for instability. An agentic automation layer could rerun ingestion, cleaning, and figure generation after a dataset update, then flag unexpected missingness or distribution drift for human review.
+
+## Public GitHub Repository
+
+https://github.com/sukhsandhu/ai-programming-foundations-project
