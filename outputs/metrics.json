@@ -1,0 +1,17 @@
+{
+  "rows": 178,
+  "columns": 15,
+  "class_counts": {
+    "class_1": 71,
+    "class_0": 59,
+    "class_2": 48
+  },
+  "top_correlations": {
+    "total_phenols vs flavanoids": 0.8645635000951147,
+    "flavanoids vs total_phenols": 0.8645635000951147,
+    "od280_per_od315_of_diluted_wines vs flavanoids": 0.787193901866951,
+    "flavanoids vs od280_per_od315_of_diluted_wines": 0.787193901866951,
+    "total_phenols vs od280_per_od315_of_diluted_wines": 0.6999493647911861
+  },
+  "highest_mean_alcohol_class": "class_0"
+}
