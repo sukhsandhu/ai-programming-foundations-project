@@ -10,7 +10,8 @@ development
   remotes/origin/main
 
 Commit history:
-* 119f54d (HEAD -> main, origin/main) Document repository evidence
+* ce22dea (HEAD -> main, origin/main) Add public GitHub repository link
+* 119f54d Document repository evidence
 *   3a09d5f Merge development evidence
 |\  
 | * f785c73 (origin/development, development) Add development branch notes
