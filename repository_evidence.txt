@@ -2,15 +2,18 @@ Public GitHub Repository Evidence
 
 Author: Sukh Sandhu
 Repository: https://github.com/sukhsandhu/ai-programming-foundations-project
+Evidence refreshed: 2026-06-29
 
 Branches:
-development
+  development
 * main
   remotes/origin/development
   remotes/origin/main
 
-Commit history:
-* ce22dea (HEAD -> main, origin/main) Add public GitHub repository link
+Substantive commit history:
+* edac829 (HEAD -> main, origin/main) Fix notebook execution indentation
+* ea2eb89 Add public GitHub repository link
+* ce22dea Add public GitHub repository link
 * 119f54d Document repository evidence
 *   3a09d5f Merge development evidence
 |\  
@@ -19,4 +22,4 @@ Commit history:
 * 07c67fd Initial capstone project structure
 
 Rubric note:
-The public repository includes multiple commits on main and an additional development branch.
+The public repository includes multiple commits on main and an additional development branch. The notebook execution fix is included in the commit history. A final evidence-refresh commit may appear above the material commits because this file is updated after the notebook fixes are prepared.
